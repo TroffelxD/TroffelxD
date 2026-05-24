@@ -2,9 +2,8 @@
 
 - 🛠 I’m currently working on my skills.
 - 🌱 I’m currently learning fullstack web development.
-- 💬 Ask me about tech-related stuff.
-- 📫 How to reach me: your-email@example.com
-- ⚡ Fun fact: Spaces are better than tabs.
+- 📫 How to reach me: TimoK06@t-online.de
+- ⚡ Fun fact: Loading....
 
 ---
 
